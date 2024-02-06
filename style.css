@@ -5,3 +5,16 @@
 div > p {
     font-family: 'Courier New';
 }
+
+#pn {
+    background-color: blanchedalmond;
+    color: blueviolet;
+}
+
+button:hover {
+    background-color: aqua;
+}
+
+form {
+    color: brown;
+}
