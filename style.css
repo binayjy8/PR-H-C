@@ -1,3 +1,7 @@
 * {
     background-color: rgb(109, 129, 122);
 }
+
+div > p {
+    font-family: 'Courier New';
+}
